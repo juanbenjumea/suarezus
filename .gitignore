@@ -1,0 +1,15 @@
+*.php
+license.txt
+readme.html
+nbproject/
+wp-admin/
+wp-includes/
+wp-includes/*
+wp-content/*.php
+wp-content/cache/
+wp-content/plugins/
+wp-content/uploads/
+wp-content/themes/
+!wp-content/themes/shopkeeper/
+!wp-content/themes/shopkeeper-child/
+!wp-config.php
