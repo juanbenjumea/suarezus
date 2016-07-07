@@ -19,7 +19,7 @@
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
+/** The name of the database for WordPress Testing*/
 define('DB_NAME', 'suarez_us');
 
 /** MySQL database username */
