@@ -23,7 +23,7 @@
 define('DB_NAME', 'suarez_us');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'suarez_trans');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'c8fr4ct4l');
